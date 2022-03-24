@@ -1,0 +1,63 @@
+body{
+    background: #212324;
+    color: #fff;
+}
+
+.navbar{
+    border-bottom: 3px solid #086a9a;
+    background: #212324;
+    opacity: 0.7;
+}
+
+#home-section{
+    background: url(../img/home.jpg) no-repeat center top;
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home-section .dark-overly{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px;
+}
+
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+
+#home-section .fa-solid{
+    color: #007bff;
+    background: #fff;
+    padding: 4px;
+    font-size: 20px;
+
+}
+
+
+#expolre-main-section .fa-solid{
+    color: #ffffff;
+    background: rgb(10, 10, 10);
+    padding: 4px;
+    font-size: 20px;
+
+}
+
+
+#create-main-section .fa-solid{
+    color: #008ed6;
+    background: rgb(255, 255, 255);
+    padding: 4px;
+    font-size: 20px;
+
+}
+
+
+#share-main-section .fa-solid{
+    color: #ffffff;
+    background: rgb(10, 10, 10);
+    padding: 4px;
+    font-size: 20px;
+
+}
